@@ -1,5 +1,5 @@
 # Sound Board Project
-This project involved using HTML5 audio tags to create a sound board. Each audio element is controlled by JavaScript. Clicking on a button will begin the sound, while clicking on another button will stop the sound already playing and start playing the new one.
+This project involved using HTML5 audio tags to create a simple sound board. Each audio element is controlled by JavaScript. Clicking on a button will begin the sound, while clicking on another button will stop the sound already playing and start playing the new one.
 
 I came up with a "calming" theme to my sound board, employing soothing sounds, such as the ocean, a crackling fireplace, and chirping birds, as well as relaxing colors and fonts.
 
