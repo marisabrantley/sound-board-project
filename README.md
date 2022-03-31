@@ -1,8 +1,7 @@
 # Sound Board Project
 This project involved using HTML5 audio tags to create a simple sound board. Each audio element is controlled by JavaScript. Clicking on a button will begin the sound, while clicking on another button will stop the sound already playing and start playing the new one.
 
-I came up with a "calming" theme to my sound board, employing soothing sounds, such as the ocean, a crackling fireplace, and chirping birds, as well as a  relaxing message, colors and fonts. Also, unlike the tutorial, I used Flexbox to make the buttons the same size.
-
+I came up with a "calming" theme to my sound board, employing soothing sounds, such as the ocean, a crackling fireplace, and chirping birds, as well as a  relaxing message, colors and fonts.
 ## Objective
 * Use the JavaScript API for audio elements:
   * .play method to play a sound when clicked.
